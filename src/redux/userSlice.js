@@ -1,7 +1,7 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import axios from "axios"
 
-const URL = "http://localhost:5000"
+const URL = "https://firstbanktask.herokuapp.com"
 export const loginUser = createAsyncThunk("Login User", async (Credential, { rejectWithValue }) => {
     try {
         console.log(Credential)
