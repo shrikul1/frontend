@@ -1,0 +1,98 @@
+.background1 {
+    background-image: url("./../images/Bankimage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    padding: 15px;
+    padding-top: 10%;
+}
+
+.changepass {
+    background-color: #FFFFFF;
+    background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
+    height: 100vh;
+
+}
+
+.asd {
+
+    padding-top: 10%;
+}
+
+.abc {
+    position: relative;
+    background-image: url("./../images/home20.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    padding-top: 22vh;
+}
+
+.acc {
+    background-image: url("./../images/account.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    padding-top: 22vh;
+}
+
+.inpt1 input {
+    background-color: black;
+    color: white;
+}
+
+.update {
+    background-color: black;
+    color: white;
+}
+
+/* .lmk {
+    font-size: 250px;
+    padding-left: 10vw;
+} */
+
+.update:hover {
+    color: wheat;
+}
+
+.xyz {
+    background-image: url("./../images/transaction.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.cb {
+    background-color: black;
+    color: white;
+}
+
+.btext {
+    position: absolute;
+    text-align: center;
+}
+
+.color {
+    position: relative;
+    background-image: url("./../images/mt.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+
+}
+
+.logo {
+    position: absolute;
+    background-image: url("./../images/money.jpg");
+}
+
+/* 
+.pd{
+    padding-top: 5%;
+} */
